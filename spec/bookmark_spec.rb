@@ -7,7 +7,7 @@ describe BookMark do
   end
   
   it "Return list of bookmarks" do
-    expect(BookMark.all).to eq(["http://www.makersacademy.com", "http://www.destroyallsoftware.com", "http://www.google.com"])
+    expect(BookMark.all).to include("http://www.google.com")
   end
   
 end

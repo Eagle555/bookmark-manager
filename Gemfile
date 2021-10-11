@@ -15,3 +15,4 @@ gem "simplecov"
 gem 'sinatra-reloader'
 gem 'simplecov-console'
 gem 'webrick'
+gem 'pg'
