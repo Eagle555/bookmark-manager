@@ -10,12 +10,4 @@ Filter bookmarks by tag
 Users are restricted to manage only their own bookmarks
 
 
-Client        |   Controller      |   Model    |   Views
-
-/bookmarks    |   app             | Bookmarks  
-
-get           |   .all            |           
-
-response      |  retun bookmarks  |  bookmarks | erb bookmarks
-
-                                  |   html
+![Image](https://github.com/makersacademy/course/blob/main/bookmark_manager/images/bookmark_manager_1.png?raw=true)
